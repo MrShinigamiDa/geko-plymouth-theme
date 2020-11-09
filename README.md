@@ -7,6 +7,10 @@ the initial version.
 As dependency make sure you ahve the spinner plymouth theme
 installed since this theme uses the same *.so files by now.
 
+## Attention!
+This git repository requires git lfs to properly fetch the blob data such as png files.  
+Install git lfs by running: 'sudo zypper in git-lfs' and afterwards clone this repository.
+
 ## Preview Theme
 If you made changes to the theme run from any tty the script
 'test-plymouth-theme.sh <duration default: 5 seconds>' as root.  
