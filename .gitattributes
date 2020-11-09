@@ -2,3 +2,4 @@ Geko-gif.xcf filter=lfs diff=lfs merge=lfs -text
 Geko.xcf filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 DC6.gif filter=lfs diff=lfs merge=lfs -text
+Geko-Alpha.blend filter=lfs diff=lfs merge=lfs -text
